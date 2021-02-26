@@ -6,10 +6,11 @@ import { ExperienceBar } from "../components/ExperienceBar";
 import { Profile } from "../components/Profile";
 import { ChallengeBox } from "../components/ChallengeBox";
 
-import styles from './styles/pages/Home.module.css';
+import styles from '../styles/pages/Home.module.css';
 import { CountdownProvider } from '../contexts/CountdownContext';
-import { GetServerSideProps } from 'next';
 import { ChallengesProvider } from '../contexts/ChallengesContext';
+
+import { GetServerSideProps } from 'next';
 
 interface HomeProps{
   level: number,
