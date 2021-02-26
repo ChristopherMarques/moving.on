@@ -3,7 +3,7 @@ import { createContext, ReactNode, useEffect, useState, VoidFunctionComponent } 
 import Cookies from 'js-cookie';
 
 import challenges from '../../challenges.json';
-import { LevelUpModal } from '../pages/components/LevelUpModal';
+import { LevelUpModal } from '../components/LevelUpModal';
 
 interface Challenge {
     type: 'body' | 'eye';
