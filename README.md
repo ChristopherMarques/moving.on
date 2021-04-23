@@ -3,6 +3,8 @@
 [![licence mit](https://img.shields.io/github/license/ChristopherMarques/moving.on)](https://github.com/ChristopherMarques/moving.on/blob/main/LICENSE)
 [![NextLevelWeek](https://img.shields.io/badge/Part%20of%20NextLevelWeek-purple)](https://nextlevelweek.com/inscricao/5)
 
+![MovinON](https://user-images.githubusercontent.com/40878232/115819372-145e0680-a3d5-11eb-8884-debf55d58d9b.png)
+
 > Hello, welcome to Moving On. A web app made to apply a fun pomodoro system, thinking in the eyes and body health of developers. 😀
 > This project was made as a part of Next Level Week 4, created in one week with the help of Diego Fernandes on the trail of ReactJS inside the Next Level Week event created by Rocketseat. 🤓
 
