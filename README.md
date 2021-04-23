@@ -6,7 +6,7 @@
 ![MovinON](https://user-images.githubusercontent.com/40878232/115819372-145e0680-a3d5-11eb-8884-debf55d58d9b.png)
 
 > Hello, welcome to Moving On. A web app made to apply a fun pomodoro system, thinking in the eyes and body health of developers. 😀
-> This project was made as a part of Next Level Week 4, created in one week with the help of Diego Fernandes on the trail of ReactJS inside the Next Level Week event created by Rocketseat. 🤓
+> This project was made as a part of Next Level Week 4, created in one week with the help of [Diego Fernandes](https://github.com/diego3g) on the trail of ReactJS inside the Next Level Week event created by @Rocketseat. 🤓
 
 ## Technologies i've used in this project
 
